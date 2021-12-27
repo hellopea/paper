@@ -1,1 +1,3 @@
 git push git@github.com:hellopea/paper.git
+git config --global user.name "hellopea"
+git config --global user.email "822079950@qq.com"
